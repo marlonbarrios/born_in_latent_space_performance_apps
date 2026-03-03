@@ -1,4 +1,4 @@
-# Performance
+# Born in Latent Space (SoTD)
 
 ### Walking in an Exaggerated Manner Around the Perimeter of a Square
 
