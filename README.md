@@ -79,7 +79,7 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 ### Barealy there | Semantic Tensecrities
 
-<img src="ttps://github.com/user-attachments/assets/fbdd38b2-2360-482e-a246-533949823731" alt="Gameplay Screenshot" width="800">
+<img src="https://github.com/user-attachments/assets/fbdd38b2-2360-482e-a246-533949823731" alt="Gameplay Screenshot" width="800">
 
 [Live app Barely There](https://marlonbarrios.github.io/barely_there/)
 
@@ -103,7 +103,6 @@ https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
 <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 
-
 ### TongueZap: The Hungry Chameleon Game
 
 <img src="https://github.com/user-attachments/assets/bd613b3e-97e5-4016-8a6d-23a1845d07f5" alt="Gameplay Screenshot" width="500">
@@ -112,7 +111,6 @@ https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
 - [LIVE APP](https://marlonbarrios.github.io/tonguezap/)
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
-
 
 
 ### Bauhaus Time Traveller
@@ -124,14 +122,12 @@ https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
 <img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 
-
 ### Instrumental Proximities
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)  
 - [LIVE APP](https://github.com/marlonbarrios/instrumentalproximities)
 
 <img src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-
 
 
 ### Impossible Simplicity
