@@ -77,6 +77,13 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 <img src="https://github.com/user-attachments/assets/c868a1b9-e49b-478f-984a-3e30ec946adf" alt="Gameplay Screenshot" width="500">
 
 
+### Barealy there | Semantic Tensecrities
+
+<img src="ttps://github.com/user-attachments/assets/fbdd38b2-2360-482e-a246-533949823731" alt="Gameplay Screenshot" width="800">
+
+[Live app Barely There](https://marlonbarrios.github.io/barely_there/)
+
+[Live app Sematic Tensegrities](https://semantic-tensegrities.vercel.app/)
 
 
   ### We Came to Rule
