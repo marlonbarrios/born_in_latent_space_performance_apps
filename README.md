@@ -1,4 +1,4 @@
-# Born in Latent Space (SoTD)
+# Born in Latent Space | The Gravity of Meaning
 
 ### Walking in an Exaggerated Manner Around the Perimeter of a Square
 
@@ -26,12 +26,6 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 
 
-### Cyber Blue
-
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
-- [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
-
-<img src="https://github.com/user-attachments/assets/1da07466-80c6-44fc-b14c-7067f65615c6" alt="Screenshot 2025-03-11 at 5 32 32 PM" width="500">
 
 
 ### Canonical 
@@ -45,13 +39,20 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 <img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
-### We are all looking for Mr Parker
+### We are all looking for Mr Parker | Venezuela and Minessota? Oil company town Essso
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/lookingformrparker?tab=readme-ov-file)
 - [LIVE APP](https://lookingformrparker.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
+
+### Cyber Blue | Cybernetics | Bateson | $ relationships |
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
+- [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
+
+<img src="https://github.com/user-attachments/assets/1da07466-80c6-44fc-b14c-7067f65615c6" alt="Screenshot 2025-03-11 at 5 32 32 PM" width="500">
 
 ### Extraordinary Alien
 
@@ -70,20 +71,11 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 - [LIVE APP](https://www.alan-ai.app/)
 
 
-### Conversations with a Possible Mind
+### Conversations with a Possible Mind | Stein 4 pespectives
 
 - [LIVE APP](https://platform.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
 
 <img src="https://github.com/user-attachments/assets/c868a1b9-e49b-478f-984a-3e30ec946adf" alt="Gameplay Screenshot" width="500">
-
-
-### Barealy there | Semantic Tensecrities
-
-<img src="https://github.com/user-attachments/assets/fbdd38b2-2360-482e-a246-533949823731" alt="Gameplay Screenshot" width="800">
-
-[Live app Barely There](https://marlonbarrios.github.io/barely_there/)
-
-[Live app Sematic Tensegrities](https://semantic-tensegrities.vercel.app/)
 
 
   ### We Came to Rule
@@ -93,6 +85,30 @@ https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
 
 
 <img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
+
+
+### Great Genes Galton Sweeney
+
+
+https://www.youtube.com/watch?v=ZGlxjlYyQhY
+
+
+### emergent counterpoints
+
+https://marlonbarrios.github.io/emergent_counterpoints/
+
+Ring lights
+
+
+### Barealy there | Semantic Tensecrities  (lasers)
+
+<img src="https://github.com/user-attachments/assets/fbdd38b2-2360-482e-a246-533949823731" alt="Gameplay Screenshot" width="800">
+
+[Live app Barely There](https://marlonbarrios.github.io/barely_there/)
+
+[Live app Sematic Tensegrities](https://semantic-tensegrities.vercel.app/)
+
+
 
 ### In Pursuit of Stolen Ghosts
 
