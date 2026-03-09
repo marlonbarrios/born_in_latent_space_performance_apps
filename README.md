@@ -87,10 +87,10 @@ https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
 <img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
 
 
-### Great Genes Galton Sweeney
+### She Has Good Genes
 
 
-https://www.youtube.com/watch?v=ZGlxjlYyQhY
+[Live app}(https://marlonbarrios.github.io/she_has_good_genes/)
 
 
 ### emergent counterpoints
