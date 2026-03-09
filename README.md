@@ -1,13 +1,5 @@
 # Born in Latent Space | The Gravity of Meaning
 
-### Walking in an Exaggerated Manner Around the Perimeter of a Square
-
-<img src="https://github.com/user-attachments/assets/0b85c647-96ff-4cde-97b1-11bd73ab5e48" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-
-[Video](https://www.artforum.com/video/bruce-naumans-walking-in-an-exaggerated-manner-161646/)
-
-Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the Perimeter of a Square* (1967–68) served as a template for my exploration of what is considered canonical or a model. I use the square as a metaphor for inhabiting the alien—performing the alienation that stands in contrast to the normative, disciplined body. By exaggerating movement, Marlon interrogates the boundaries of conceptual experimentation, viewing it through the lens of white privilege. This perspective calls attention to how certain bodies and practices are excluded or marginalized within the same conceptual frameworks that define avant-garde art, subtly critiquing the institutionalization of experimentalism as an exclusive realm of white privilege. It represents the internalized latent space as a square.
-
 
 ### El Inmigrante 
 
@@ -23,7 +15,6 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 - [LIVE APP](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
 
 <img src="https://github.com/user-attachments/assets/dab5a3f4-2b92-491c-92c1-b0219a26bcad" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
-
 
 
 
@@ -78,10 +69,15 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 <img src="https://github.com/user-attachments/assets/c868a1b9-e49b-478f-984a-3e30ec946adf" alt="Gameplay Screenshot" width="500">
 
 
-  ### We Came to Rule
+### I am not Saying
+
+[Live app](https://i-am-not-saying.vercel.app/)
 
 
-https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
+### We Came to Rule
+
+
+[Live App](https://marlonbarrios.github.io/we_came_to_rule/)
 
 
 <img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
@@ -90,7 +86,7 @@ https://youtu.be/vroFIxN7qcI?si=bYmMfh-QLDjJ_tle
 ### She Has Good Genes
 
 
-[Live app}(https://marlonbarrios.github.io/she_has_good_genes/)
+[Live app](https://marlonbarrios.github.io/she_has_good_genes/)
 
 
 ### emergent counterpoints
@@ -109,31 +105,16 @@ Ring lights
 [Live app Sematic Tensegrities](https://semantic-tensegrities.vercel.app/)
 
 
+### God Mode (Palantir)
 
-### In Pursuit of Stolen Ghosts
-
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)  
-- [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
-
-<img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-
-
-### TongueZap: The Hungry Chameleon Game
-
-<img src="https://github.com/user-attachments/assets/bd613b3e-97e5-4016-8a6d-23a1845d07f5" alt="Gameplay Screenshot" width="500">
-
-
-- [LIVE APP](https://marlonbarrios.github.io/tonguezap/)
-
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/tonguezap)
+[Live app](https://marlonbarrios.github.io/god_mode_palantir/)
 
 
 ### Bauhaus Time Traveller
 
-- **Model:** Stable Diffusion XL  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)  
-- [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
+- **Model:** Streamm Diffusion XL  
+
+- [LIVE APP](https://bauhaus-time-travelers-daydream.vercel.app/)
   
 <img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
