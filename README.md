@@ -1,6 +1,5 @@
 # Born in Latent Space | The Gravity of Meaning
 
-- [Born in Latent Space – Performance Apps](https://github.com/marlonbarrios/born_in_latent_space_performance_apps?tab=readme-ov-file)
 - [El Inmigrante](https://elinmigrante.vercel.app/)
 - [All Watched Over by Machines of Loving Grace](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
 - [Cyberblue](https://marlonbarrios.github.io/cyberblue/)
