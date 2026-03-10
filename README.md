@@ -1,20 +1,40 @@
 # Born in Latent Space | The Gravity of Meaning
 
-- [El Inmigrante](https://elinmigrante.vercel.app/)
-- [All Watched Over by Machines of Loving Grace](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
-- [Cyberblue](https://marlonbarrios.github.io/cyberblue/)
-- [Canonical01](https://marlonbarrios.github.io/canonical01/)
-- [Looking for Mr. Parker](https://lookingformrparker.vercel.app/)
-- [Extraordinary Alien 2](https://marlonbarrios.github.io/extraordinary_alien2/)
-- [Alan AI](https://www.alan-ai.app/)
-- [Hume AI – EVI Playground](https://app.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
-- [I Am Not Saying](https://i-am-not-saying.vercel.app/)
-- [We Came to Rule](https://marlonbarrios.github.io/we_came_to_rule/)
-- [She Has Good Genes](https://marlonbarrios.github.io/she_has_good_genes/)
-- [Barely There](https://marlonbarrios.github.io/barely_there/)
-- [Bauhaus Time Travelers Daydream](https://bauhaus-time-travelers-daydream.vercel.app/)
-- [Instrumental Proximities](https://marlonbarrios.github.io/instrumentalproximities/)
-- [Video: Born in Latent Space / Performance Demo](https://youtu.be/whND6od5Rd8?si=lcb8Qj1ACzQ9MIWO)
+  [El Inmigrante](https://elinmigrante.vercel.app/)
+  
+  [All Watched Over by Machines of Loving Grace](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
+  [Video: All Watched over by Machines of loving grace](https://www.youtube.com/watch?v=W_RUBs1IsCw)
+  
+  [Cyberblue](https://marlonbarrios.github.io/cyberblue/)
+  
+  [Canonical01](https://marlonbarrios.github.io/canonical01/)
+  
+  [Looking for Mr. Parker](https://lookingformrparker.vercel.app/)
+  
+  [Extraordinary Alien 2](https://marlonbarrios.github.io/extraordinary_alien2/)
+  
+  [Alan AI](https://www.alan-ai.app/)
+  
+  [Hume AI – EVI Playground](https://app.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
+  
+  [I Am Not Saying](https://i-am-not-saying.vercel.app/)
+  
+  [We Came to Rule](https://marlonbarrios.github.io/we_came_to_rule/)
+  
+  [Video: We Came to Rule](https://www.youtube.com/watch?v=vroFIxN7qcI)
+  
+  [She Has Good Genes](https://marlonbarrios.github.io/she_has_good_genes/)
+
+  [Video: OutPut war](https://www.youtube.com/watch?v=G_8EV4e7J94)
+  
+  [Barely There](https://marlonbarrios.github.io/barely_there/)
+  [Video: Balely There](https://www.youtube.com/watch?v=Voln783MYXA)
+  
+  [Bauhaus Time Travelers Daydream](https://bauhaus-time-travelers-daydream.vercel.app/)
+  
+  [Instrumental Proximities](https://marlonbarrios.github.io/instrumentalproximities/)
+  
+  [Video: On my own Karaoke](https://youtu.be/whND6od5Rd8?si=lcb8Qj1ACzQ9MIWO)
 
 
 ### El Inmigrante 
