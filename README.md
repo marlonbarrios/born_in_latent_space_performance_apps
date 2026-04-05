@@ -24,6 +24,10 @@
 
   [Live app Sematic Tensegrities](https://semantic-tensegrities.vercel.app/)
 
+  [RealTime Transformer](https://realtimetransformer-r267.vercel.app/)
+
+  [Decolonial AI](https://github.com/marlonbarrios/pangea-ia)
+
   [I Am Not Saying](https://i-am-not-saying.vercel.app/)
   
   [We Came to Rule](https://marlonbarrios.github.io/we_came_to_rule/)
@@ -62,6 +66,10 @@
 
 
 
+
+
+
+
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
 
 <img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7" width="500" />
@@ -75,6 +83,7 @@
 <img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/faf7cd86-046b-4767-900f-80184bd2ada8" width="500" />
 
 
+
 ## *The Tectonics of Otherness* 
 
 [**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
@@ -83,19 +92,8 @@
 
 
 Not working!!
-## RealTimeTransformer
-
-**[Live Application →](https://realtimetransformer-r267.vercel.app/)**  
-[**Code Repository**](https://github.com/marlonbarrios/realtimetransformer)
-
-## Pangea_IA — Interface Guide  
-### Decolonial AI Platform for Conversational Exploration
-
-[**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
-[**Code Repository**](https://github.com/marlonbarrios/pangea-ia)
 
 [Proteus](https://proteus-msfwuevvw-marlonbarrios-projects.vercel.app/)
-
 
 
 
