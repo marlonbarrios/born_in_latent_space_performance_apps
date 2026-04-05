@@ -1,4 +1,4 @@
-# Born in Latent Space | The Gravity of Meaning | SoTD UF
+# Born in Latent Space | The Gravity of Meaning Version April 2026
 
   [El Inmigrante](https://elinmigrante.vercel.app/)
   
@@ -35,11 +35,12 @@
   
   [She Has Good Genes](https://marlonbarrios.github.io/she_has_good_genes/)
   
-
+  
   [Video: OutPut war](https://www.youtube.com/watch?v=G_8EV4e7J94)
   
   
   [Barely There](https://marlonbarrios.github.io/barely_there/)
+  
   [Video: Balely There](https://www.youtube.com/watch?v=Voln783MYXA)
   
   
@@ -48,8 +49,6 @@
   
   [Instrumental Proximities](https://marlonbarrios.github.io/instrumentalproximities/)
   
-  
-  [Video: On my own Karaoke](https://youtu.be/whND6od5Rd8?si=lcb8Qj1ACzQ9MIWO)
 
 
 ### El Inmigrante 
