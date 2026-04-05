@@ -5,6 +5,10 @@
   [All Watched Over by Machines of Loving Grace](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
   
   [Video: All Watched over by Machines of loving grace](https://www.youtube.com/watch?v=W_RUBs1IsCw)
+
+  [What is  Hand](https://marlonbarrios.github.io/ahandisfourrelationships/)
+
+  [Pulling Molecules](https://marlonbarrios.github.io/pulling-molecules/)
   
   [Cyberblue](https://marlonbarrios.github.io/cyberblue/)
   
@@ -40,17 +44,59 @@
   
   [Instrumental Proximities](https://marlonbarrios.github.io/instrumentalproximities/)
 
-  [Impossible Simplicity](https://marlonbarrios.github.io/impossiblesimplicity/)
+  [Body Proximities](https://marlonbarrios.github.io/body_proximities/)
 
+  [Impossible Simplicity](https://marlonbarrios.github.io/impossiblesimplicity/)
 
   [Time Instances](https://marlonbarrios.github.io/time_instances/)
   
-
   [BrainFuck Swarm](https://marlonbarrios.github.io/brainfuck_swarm/)
-  
 
   [Tangerine Dreams](https://marlonbarrios.github.io/tangerine_dreams2/)
-  
+
+  [Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent](https://marlonbarrios.github.io/pseudo_ouroboros/)
+
+  [TongueZap: The Hungry Chameleon Game](https://marlonbarrios.github.io/tonguezap/)
+
+
+
+
+
+
+
+
+
+
+
+
+**Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
+
+<img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7" width="500" />
+
+[ALBUM](https://marlonbarriossolano.bandcamp.com/album/digressions-in-latent-space)
+
+[Back to home page](https://marlonbarrios.github.io/)
+
+
+Not working!!
+
+## *The Tectonics of Otherness* 
+
+[**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
+[**Code Repository**](https://github.com/marlonbarrios/pangea_in_latent-space)
+
+## RealTimeTransformer
+
+**[Live Application →](https://realtimetransformer-r267.vercel.app/)**  
+[**Code Repository**](https://github.com/marlonbarrios/realtimetransformer)
+
+## Pangea_IA — Interface Guide  
+### Decolonial AI Platform for Conversational Exploration
+
+[**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
+[**Code Repository**](https://github.com/marlonbarrios/pangea-ia)
+
+
 
 
 ## MIT License
