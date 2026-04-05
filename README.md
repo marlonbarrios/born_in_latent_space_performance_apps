@@ -57,6 +57,8 @@
   [Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent](https://marlonbarrios.github.io/pseudo_ouroboros/)
 
   [TongueZap: The Hungry Chameleon Game](https://marlonbarrios.github.io/tonguezap/)
+  
+  [Proteans](https://www.youtube.com/watch?v=iYiMgqiLDyU&t=122s)
 
 
 
