@@ -70,6 +70,8 @@
 
 [Music Videos for Dark Enlightment Rave](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
 
+<img width="1389" height="988" alt="Screenshot 2026-04-05 at 3 34 31 PM" src="https://github.com/user-attachments/assets/faf7cd86-046b-4767-900f-80184bd2ada8" />
+
 ## *The Tectonics of Otherness* 
 
 [**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
