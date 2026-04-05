@@ -81,6 +81,7 @@
 [**Code Repository**](https://github.com/marlonbarrios/pangea_in_latent-space)
 
 
+
 Not working!!
 ## RealTimeTransformer
 
@@ -92,6 +93,8 @@ Not working!!
 
 [**Launch App**](https://pangea-ia-bj2o2.vercel.app/?agentConfig=Pangea_IA)  
 [**Code Repository**](https://github.com/marlonbarrios/pangea-ia)
+
+[Proteus](https://proteus-msfwuevvw-marlonbarrios-projects.vercel.app/)
 
 
 
