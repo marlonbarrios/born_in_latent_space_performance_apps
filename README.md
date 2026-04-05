@@ -48,6 +48,8 @@
   
   
   [Instrumental Proximities](https://marlonbarrios.github.io/instrumentalproximities/)
+
+- [Impossible Simplicity](https://marlonbarrios.github.io/impossiblesimplicity/)
   
 
 
@@ -177,11 +179,7 @@ Ring lights
 <img src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 
-### Impossible Simplicity
 
-- **Model:** MediaPipe Pose Landmark
-- - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
-- [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
 <img src="https://github.com/user-attachments/assets/f04d6536-7fa4-42c5-a8b9-d987038da495" alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500">
 
