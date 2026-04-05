@@ -60,15 +60,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
 
 <img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7" width="500" />
@@ -77,14 +68,15 @@
 
 [Back to home page](https://marlonbarrios.github.io/)
 
-
-Not working!!
+[Music Videos for Dark Enlightment Rave](https://www.youtube.com/playlist?list=PLC2ijZ2U-avi_CB1NQFV6og2eg7ZTpWo3)
 
 ## *The Tectonics of Otherness* 
 
 [**Launch App**](https://marlonbarrios.github.io/pangea_in_latent-space/)  
 [**Code Repository**](https://github.com/marlonbarrios/pangea_in_latent-space)
 
+
+Not working!!
 ## RealTimeTransformer
 
 **[Live Application →](https://realtimetransformer-r267.vercel.app/)**  
