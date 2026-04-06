@@ -22,7 +22,6 @@
 
   [Alan AI](https://www.alan-ai.app/)
 
-  
   [Hume AI – EVI Playground](https://app.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
 
   [Live app Sematic Tensegrities](https://semantic-tensegrities.vercel.app/)
@@ -33,7 +32,7 @@
 
   [I Am Not Saying](https://i-am-not-saying.vercel.app/)
 
-  {My House id Your House](https://marlonbarrios.github.io/detroit/)
+  [My House id Your House](https://marlonbarrios.github.io/detroit/)
   
   [We Came to Rule](https://marlonbarrios.github.io/we_came_to_rule/)
   
