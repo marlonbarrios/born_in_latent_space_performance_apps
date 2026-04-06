@@ -1,4 +1,4 @@
-# Born in Latent Space | Updated April 2026
+# Born in Latent Space | UnstableLandscapes Updated April 2026
 
   [UnstableLandscape: The Aesthtics of Change](https://marlonbarrios.github.io/unstablelandscapeinfoviz/)
 
@@ -21,6 +21,7 @@
   [Extraordinary Alien 2](https://marlonbarrios.github.io/extraordinary_alien2/)
 
   [Alan AI](https://www.alan-ai.app/)
+
   
   [Hume AI – EVI Playground](https://app.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
 
@@ -31,6 +32,8 @@
   [Decolonial AI](https://github.com/marlonbarrios/pangea-ia)
 
   [I Am Not Saying](https://i-am-not-saying.vercel.app/)
+
+  {My House id Your House](https://marlonbarrios.github.io/detroit/)
   
   [We Came to Rule](https://marlonbarrios.github.io/we_came_to_rule/)
   
