@@ -71,7 +71,7 @@
   [Proteans](https://www.youtube.com/watch?v=iYiMgqiLDyU&t=122s)
 
 
-[rabbitHoles: Recursive Pathways to the Edges of Material Knowing and Back | Speculative Podcast](https://marlonbarrios.github.io/rabbitholes/)
+[rabbitHoles: Recursive Pathways to the Edges of Material Knowing and Back Speculative Podcast](https://marlonbarrios.github.io/rabbitholes/)
 
 
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
